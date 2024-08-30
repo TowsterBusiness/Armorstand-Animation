@@ -1,5 +1,7 @@
 # ArmorStand Animations
 
+![Anim](ss.png)
+
 This plugin moves armorstands in animations
 You can change the positions of the animation by changeing the Animation class.
 The positions of the armor stands are dependant on the quaterneon system that minecraft uses
